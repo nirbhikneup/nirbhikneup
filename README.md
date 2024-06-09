@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Python
 - 📫 How to reach me nirbhikneupane.10@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I still play Clash Royale.
+- ⚡ I like playing Clash Royale
 
 <!---
 nirbhikneup/nirbhikneup is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
